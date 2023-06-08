@@ -4,7 +4,7 @@
 
 This app is a dinosaur guessing game, the user can click on a card and information about the unknown dinosaur will be revealed 
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://github.com/tramyd/DinoGuesser/blob/main/DinoGuesserWalkThrough.gif" width=350 alt="Demo GIF"><br>
 
