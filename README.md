@@ -6,8 +6,6 @@ This app is a dinosaur guessing game, the user can click on a card and informati
 
 ### App Walk-though
 
-![](https://github.com/tramyd/DinoGuesser/blob/main/DinoGuesserWalkThrough.gif) 
-
 <img src="https://github.com/tramyd/DinoGuesser/blob/main/DinoGuesserWalkThrough.gif" width=350 alt="Demo GIF"><br>
 
 
