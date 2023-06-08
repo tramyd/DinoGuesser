@@ -8,6 +8,9 @@ This app is a dinosaur guessing game, the user can click on a card and informati
 
 ![](https://github.com/tramyd/DinoGuesser/blob/main/DinoGuesserWalkThrough.gif) 
 
+<img src="https://github.com/tramyd/DinoGuesser/blob/main/DinoGuesserWalkThrough.gif" width=350 alt="Demo GIF"><br>
+
+
 ### Features
 - [x] Create a Guesser screen that uses stack views and auto layout to configure the UI for different screen sizes and dimensions
 - [x] Embed the Guesser screen in a Navigation Controller
