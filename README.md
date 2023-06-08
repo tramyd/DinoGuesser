@@ -6,7 +6,7 @@ This app is a dinosaur guessing game, the user can click on a card and informati
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/ID3s1pz.gif" width=550 alt="Demo GIF"><br>
+<img src="https://i.imgur.com/ID3s1pz.gif" width="550" alt="Demo GIF"><br>
 
 ### Features
 - [x] Create a Guesser screen that uses stack views and auto layout to configure the UI for different screen sizes and dimensions
